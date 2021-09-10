@@ -52,3 +52,18 @@ body {
     text-align: justify;
     margin-bottom: 100px;
 }
+footer{
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    
+    
+}
+
+.iconim{
+    width: 25px;
+    height: 25px;
+    
+}
