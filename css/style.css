@@ -42,4 +42,13 @@ body {
     text-align: center;
     margin: 5px 5px;
     height: 30px;
+
+}
+.descripcion{
+    width: 100%;
+    border: 1px solid #969897;
+    border-radius: 50px;
+    padding: 15px;
+    text-align: justify;
+    margin-bottom: 100px;
 }
