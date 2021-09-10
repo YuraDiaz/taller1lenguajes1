@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #969897;
+    margin: 50px 50px;    
+}
+
+.titulo {    
+    font-size: 60px;    
+}
+.fl-izquierda{
+    float: left;
+}
+
+
+.f-perfil{
+    border: 1px solid;
+    border-radius: 100%;
+    position: absolute;
+    height: 150px;
+    margin-left: 100px;
+    
+}
+.d-inline{
+    display: inline-block;
+}
+
+.cdatos{
+    width: 21%;
+    height: 180px;
+    padding: 20px 20px;
+    display: inline-table;
+    margin-top: 80px;
+}
+
+.cajaind{
+    border: 1px solid #969897; 
+    text-align: center;
+    margin: 5px 5px;
+    height: 30px;
+}
+.subtitulo{
+    text-align: center;
+    margin: 5px 5px;
+    height: 30px;
+}
